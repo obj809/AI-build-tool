@@ -10,6 +10,3 @@
 ## Social Media Context
 
 [Social Media Context](https://github.com/obj809/social-media-context)
-
-## Model Context Protocol
-
