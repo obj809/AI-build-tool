@@ -2,10 +2,10 @@
 
 ## Toolkits
 
-[Root Prompt Toolkit](https://github.com/obj809/root-prompt-kernel)
+[Root Prompt Kernel](https://github.com/obj809/root-prompt-kernel)
 
 
-[System Prompt Toolkit](https://github.com/obj809/system-prompt-kernel)
+[System Prompt Kernel](https://github.com/obj809/system-prompt-kernel)
 
 ## Social Media Context
 
