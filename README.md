@@ -1,11 +1,12 @@
 # AI Build Tool
 
+## API Connection
+
+[OpenAI API Connection](https://github.com/obj809/openai-api-connection)
+
 ## Toolkits
 
-[Root Prompt Kernel](https://github.com/obj809/root-prompt-kernel)
-
-
-[System Prompt Kernel](https://github.com/obj809/system-prompt-kernel)
+[System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
 
 ## Social Media Context
 
