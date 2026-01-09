@@ -12,7 +12,3 @@ A collection focused on LLM interaction and context management for creating cust
 ## Toolkits
 
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
-
-## Social Media Context
-
-[Social Media Context](https://github.com/obj809/social-media-context)
