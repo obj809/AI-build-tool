@@ -2,7 +2,9 @@
 
 ## Description
 
-A collection focused on LLM interaction and context management for creating custom AI models. Gemini | Claude | ChatGPT | LangChain
+A collection focused on LLM interaction and context management for creating custom AI models. There is an objective to demonstrate various projects through the multi-ll-ui project.
+
+[multi-ll-ui project](https://multi-llm-ui.com.au/)
 
 
 ## API Connection
