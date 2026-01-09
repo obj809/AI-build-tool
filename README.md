@@ -2,9 +2,7 @@
 
 ## Description
 
-A collection focused on LLM interaction and context management for creating custom AI models. There is an objective to demonstrate various projects through the multi-ll-ui project.
-
-[multi-ll-ui project](https://multi-llm-ui.com.au/)
+A collection focused on LLM interaction and context management for creating custom AI models. One objective is to demonstrate various projects through the [multi-ll-ui](https://multi-llm-ui.com.au/) project.
 
 
 ## API Connection
