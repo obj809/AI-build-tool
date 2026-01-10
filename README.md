@@ -1,4 +1,4 @@
-# LLM Build Tool
+# AI Build Tool
 
 ## Description
 
