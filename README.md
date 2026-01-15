@@ -17,8 +17,8 @@ A collection focused on LLM interaction and context management for building cust
 
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
 
-# Interaction Interface
+## User Interface
 
 A variety of models in this project are demonstrated through the multi-ll-ui project linked below.
 
-[https://github.com/obj809/multi-llm-ui](https://github.com/obj809/multi-llm-ui)
+[Multi LLM UI](https://github.com/obj809/multi-llm-ui)
