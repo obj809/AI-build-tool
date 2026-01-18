@@ -13,12 +13,15 @@ A collection focused on LLM interaction and context management for building cust
 [Claude API Connection](https://github.com/obj809/claude-api-connection)
 
 
-## Toolkits
+## Managing Context via API Calls
+
+[LLM API Context Management](https://github.com/obj809/llm-api-context-management)
 
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
+
 
 ## User Interface
 
 A variety of models in this project are demonstrated through the multi-ll-ui project linked below.
 
-[Multi LLM UI](https://github.com/obj809/multi-llm-ui)
+[Multi LLM UI](https://github.com/obj809/multi-llm-ui)x
