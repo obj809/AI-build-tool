@@ -23,19 +23,19 @@ A collection focused on LLM interaction and context management for building cust
 
 [Summarized Content]
 
-# Retrieval Augmented Generation
+## Retrieval Augmented Generation
 
 [RAG-project]
 
-# LangChain
+## LangChain
 
 [Langchain-integration]
 
-# AI Agents
+## AI Agents
 
 [Agentic-integration]
 
-# Tooling
+## Tooling
 
 [LangChain, LangGraph, LlamaIndex, Pydantic, FastAPI, Pinecone]
 
