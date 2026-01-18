@@ -22,4 +22,4 @@ A collection focused on LLM interaction and context management for building cust
 
 A variety of models in this project are demonstrated through the multi-ll-ui project linked below.
 
-[Multi LLM UI](https://github.com/obj809/multi-llm-ui)x
+[Multi LLM UI](https://github.com/obj809/multi-llm-ui)
