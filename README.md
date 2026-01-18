@@ -15,9 +15,9 @@ A collection focused on LLM interaction and context management for building cust
 
 ## Managing Context via API Calls
 
-[LLM API Context Management](https://github.com/obj809/llm-api-context-management)
-
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
+
+[LLM API Context Management](https://github.com/obj809/llm-api-context-management)
 
 [Structured State]
 
