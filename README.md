@@ -2,7 +2,7 @@
 
 ## Description
 
-A collection focused on LLM interaction and context management for building custom AI models. 
+A collection focused on LLM interaction, context management strategies and tooling for building custom AI systems. 
 
 ## API Connection
 
