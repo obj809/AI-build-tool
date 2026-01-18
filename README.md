@@ -15,7 +15,29 @@ A collection focused on LLM interaction and context management for building cust
 
 ## Managing Context via API Calls
 
+[LLM API Context Management](https://github.com/obj809/llm-api-context-management)
+
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
+
+[Structured State]
+
+[Summarized Content]
+
+# Retrieval Augemented Generation
+
+[RAG-project]
+
+# LangChain Integration
+
+[Langchain-projects]
+
+# AI Agents
+
+[Agentic-projects]
+
+# Tooling
+
+[LangChain, LangGraph, LlamaIndex, Pydantic, FastAPI, Pinecone]
 
 
 ## User Interface
