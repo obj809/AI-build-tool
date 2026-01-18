@@ -23,17 +23,17 @@ A collection focused on LLM interaction and context management for building cust
 
 [Summarized Content]
 
-# Retrieval Augemented Generation
+# Retrieval Augmented Generation
 
 [RAG-project]
 
-# LangChain Integration
+# LangChain
 
-[Langchain-projects]
+[Langchain-integration]
 
 # AI Agents
 
-[Agentic-projects]
+[Agentic-integration]
 
 # Tooling
 
