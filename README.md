@@ -19,10 +19,6 @@ A collection focused on context management and tooling for building custom AI sy
 
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
 
-## Fine-tuning
-
-[fine-tuning-integration]
-
 ## LangChain
 
 [langchain-integration]
@@ -30,6 +26,10 @@ A collection focused on context management and tooling for building custom AI sy
 ## Retrieval Augmented Generation
 
 [rag-integration]
+
+## Fine-tuning
+
+[fine-tuning-integration]
 
 ## Tooling
 
