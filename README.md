@@ -21,7 +21,10 @@ A collection focused on context management and tooling for building custom AI sy
 
 ## LangChain
 
-[langchain-integration]
+[langChain Systems](https://github.com/obj809/langchain-systems)
+[langChain Architectures]
+[langChain Workflows]
+
 
 ## Retrieval Augmented Generation
 
