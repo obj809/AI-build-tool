@@ -22,21 +22,21 @@ A collection focused on context management and tooling for building custom AI sy
 
 [System Prompt Toolkit](https://github.com/obj809/system-prompt-toolkit)
 
+## Fine-tuning
+
+[fine-tuning-integration]
+
 ## LangChain
 
 [LangChain Systems](https://github.com/obj809/langchain-systems)  
-
-## Retrieval Augmented Generation
-
-[rag-integration]
 
 ## Tooling
 
 [LangChain, LangGraph, LlamaIndex, Pydantic, FastAPI, Pinecone]
 
-## Fine-tuning
+## Retrieval Augmented Generation
 
-[fine-tuning-integration]
+[rag-integration]
 
 ## Agents
 
