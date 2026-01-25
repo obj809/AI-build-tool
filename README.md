@@ -38,6 +38,10 @@ A collection focused on context management and tooling for building custom AI sy
 
 [fine-tuning-integration]
 
+## MCP Connection
+
+[mcp-integration]
+
 
 ## User Interface
 
