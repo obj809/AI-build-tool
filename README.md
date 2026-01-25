@@ -38,13 +38,13 @@ A collection focused on context management and tooling for building custom AI sy
 
 [fine-tuning-integration]
 
+## Agents
+
+[agents-integration]
+
 ## MCP Connection
 
 [mcp-integration]
-
-## Claude Agents
-
-[agents-integration]
 
 ## User Interface
 
